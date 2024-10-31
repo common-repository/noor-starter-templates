@@ -1,0 +1,123 @@
+{
+	"base": [
+		{ "color": "#333333" },
+		{ "color": "#222222" },
+		{ "color": "#222222" },
+		{ "color": "#333333" },
+		{ "color": "#757575" },
+		{ "color": "#A2A2A2" },
+		{ "color": "#E0E0E0" },
+		{ "color": "#F7F7F7" },
+		{ "color": "#ffffff" }
+	],
+	"vibranttones": [
+		{ "color": "#FF6F00" },
+		{ "color": "#D96207" },
+		{ "color": "#223690" },
+		{ "color": "#303F9F" },
+		{ "color": "#676F90" },
+		{ "color": "#8F97B5" },
+		{ "color": "#D4D9EE" },
+		{ "color": "#F9F9FC" },
+		{ "color": "#ffffff" }
+	],
+	"pastelbluesgrays": [
+		{ "color": "#536DFE" },
+		{ "color": "#3551F0" },
+		{ "color": "#282C35" },
+		{ "color": "#2F3542" },
+		{ "color": "#5C6372" },
+		{ "color": "#9097A6" },
+		{ "color": "#DFE3ED" },
+		{ "color": "#F6F8FC" },
+		{ "color": "#ffffff" }
+	],
+	"vibrant": [
+		{ "color": "#EC407A" },
+		{ "color": "#D73F72" },
+		{ "color": "#411276" },
+		{ "color": "#4B1589" },
+		{ "color": "#584969" },
+		{ "color": "#857498" },
+		{ "color": "#E2DAEA" },
+		{ "color": "#FBF7FE" },
+		{ "color": "#ffffff" }
+	],
+	"autumn": [
+		{ "color": "#FFA02C" },
+		{ "color": "#EE9427" },
+		{ "color": "#282C35" },
+		{ "color": "#303542" },
+		{ "color": "#606777" },
+		{ "color": "#9097A6" },
+		{ "color": "#DFE3ED" },
+		{ "color": "#F6F8FC" },
+		{ "color": "#ffffff" }
+	],
+	"oceanhues": [
+		{ "color": "#22B2DA" },
+		{ "color": "#1E95B7" },
+		{ "color": "#354362" },
+		{ "color": "#3B4A6B" },
+		{ "color": "#54607B" },
+		{ "color": "#838DA2" },
+		{ "color": "#E0E3EA" },
+		{ "color": "#F3F4F7" },
+		{ "color": "#ffffff" }
+	],
+	"shadesbluegreen": [
+		{ "color": "#8BC34A" },
+		{ "color": "#75A939" },
+		{ "color": "#282C35" },
+		{ "color": "#2F3542" },
+		{ "color": "#535864" },
+		{ "color": "#888D9A" },
+		{ "color": "#D5DBE6" },
+		{ "color": "#F8FAFE" },
+		{ "color": "#ffffff" }
+	],
+	"pastelshades": [
+		{ "color": "#F44336" },
+		{ "color": "#D74237" },
+		{ "color": "#222222" },
+		{ "color": "#333333" },
+		{ "color": "#757575" },
+		{ "color": "#A2A2A2" },
+		{ "color": "#E0E0E0" },
+		{ "color": "#F7F7F7" },
+		{ "color": "#ffffff" }
+	],
+	"midnight": [
+		{ "color": "#0088CE" },
+		{ "color": "#0974AB" },
+		{ "color": "#323355" },
+		{ "color": "#393A61" },
+		{ "color": "#636488" },
+		{ "color": "#9798BA" },
+		{ "color": "#D4D5E4" },
+		{ "color": "#F8F9FA" },
+		{ "color": "#FFFFFF" }
+	],
+	"turquoise": [
+		{ "color": "#2DCEFF" },
+		{ "color": "#25B9E9" },
+		{ "color": "#1A1A1A" },
+		{ "color": "#212121" },
+		{ "color": "#6D6D6D" },
+		{ "color": "#8E8E8E" },
+		{ "color": "#C9C9C9" },
+		{ "color": "#ECECEC" },
+		{ "color": "#ffffff" }
+	],
+	"warmtones": [
+		{ "color": "#FF6F00" },
+		{ "color": "#D96207" },
+		{ "color": "#222222" },
+		{ "color": "#333333" },
+		{ "color": "#757575" },
+		{ "color": "#A2A2A2" },
+		{ "color": "#D4D9EE" },
+		{ "color": "#F9F9FC" },
+		{ "color": "#ffffff" }
+	]
+}

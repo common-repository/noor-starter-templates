@@ -1,0 +1,25 @@
+hr.dima-theme-hr {
+  margin: 20px 0;
+}
+
+#customize-control-noor_starter_import_export .noor-starter-button {
+  margin-top: 10px;
+}
+
+#customize-control-noor_starter_import_export .noor-starter-button.components-button.is-destructive {
+  border: 1px solid;
+}
+
+#customize-control-noor_starter_import_export .noor-starter-import-file {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px 0;
+  font-size: 13px;
+}
+
+#customize-control-noor_starter_import_export .noor-starter-uploading {
+  display: none;
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 12px;
+}

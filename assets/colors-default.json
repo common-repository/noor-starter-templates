@@ -1,0 +1,144 @@
+{
+    "palette": [
+        {
+            "color": "#333333",
+            "slug": "palette1",
+            "name": "Palette Color 1"
+        },
+        {
+            "color": "#222222",
+            "slug": "palette2",
+            "name": "Palette Color 2"
+        },
+        {
+            "color": "#222222",
+            "slug": "palette3",
+            "name": "Palette Color 3"
+        },
+        {
+            "color": "#333333",
+            "slug": "palette4",
+            "name": "Palette Color 4"
+        },
+        {
+            "color": "#757575",
+            "slug": "palette5",
+            "name": "Palette Color 5"
+        },
+        {
+            "color": "#A2A2A2",
+            "slug": "palette6",
+            "name": "Palette Color 6"
+        },
+        {
+            "color": "#E0E0E0",
+            "slug": "palette7",
+            "name": "Palette Color 7"
+        },
+        {
+            "color": "#F7F7F7",
+            "slug": "palette8",
+            "name": "Palette Color 8"
+        },
+        {
+            "color": "#FFFFFF",
+            "slug": "palette9",
+            "name": "Palette Color 9"
+        }
+    ],
+    "second-palette": [
+        {
+            "color": "#333333",
+            "slug": "palette1",
+            "name": "Palette Color 1"
+        },
+        {
+            "color": "#222222",
+            "slug": "palette2",
+            "name": "Palette Color 2"
+        },
+        {
+            "color": "#222222",
+            "slug": "palette3",
+            "name": "Palette Color 3"
+        },
+        {
+            "color": "#333333",
+            "slug": "palette4",
+            "name": "Palette Color 4"
+        },
+        {
+            "color": "#4A5568",
+            "slug": "palette5",
+            "name": "Palette Color 5"
+        },
+        {
+            "color": "#718096",
+            "slug": "palette6",
+            "name": "Palette Color 6"
+        },
+        {
+            "color": "#E0E0E0",
+            "slug": "palette7",
+            "name": "Palette Color 7"
+        },
+        {
+            "color": "#F7F7F7",
+            "slug": "palette8",
+            "name": "Palette Color 8"
+        },
+        {
+            "color": "#FFFFFF",
+            "slug": "palette9",
+            "name": "Palette Color 9"
+        }
+    ],
+    "third-palette": [
+        {
+            "color": "#333333",
+            "slug": "palette1",
+            "name": "Palette Color 1"
+        },
+        {
+            "color": "#222222",
+            "slug": "palette2",
+            "name": "Palette Color 2"
+        },
+        {
+            "color": "#222222",
+            "slug": "palette3",
+            "name": "Palette Color 3"
+        },
+        {
+            "color": "#333333",
+            "slug": "palette4",
+            "name": "Palette Color 4"
+        },
+        {
+            "color": "#4A5568",
+            "slug": "palette5",
+            "name": "Palette Color 5"
+        },
+        {
+            "color": "#718096",
+            "slug": "palette6",
+            "name": "Palette Color 6"
+        },
+        {
+            "color": "#E0E0E0",
+            "slug": "palette7",
+            "name": "Palette Color 7"
+        },
+        {
+            "color": "#F7F7F7",
+            "slug": "palette8",
+            "name": "Palette Color 8"
+        },
+        {
+            "color": "#FFFFFF",
+            "slug": "palette9",
+            "name": "Palette Color 9"
+        }
+    ],
+    "active": "palette"
+}
